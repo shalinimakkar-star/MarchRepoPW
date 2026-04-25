@@ -1,0 +1,2 @@
+technology file details.
+Docker Bash Git Gitlab AWS
